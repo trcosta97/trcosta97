@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou em busca de uma primeria oportunidade no mercado de tecnologia
-- 🌱 Estou estudando Java e React
+- 🌱 Estou estudando Java e Spring Boot
 - 📫 Contato: trcosta97@hotmail.com
 - 😄 Pronomes: ele/dele
 
