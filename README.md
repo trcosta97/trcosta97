@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Ribeiro 👋
 
 
-- 🔭 Atualmente estou em busca de uma primeria oportunidade no mercado de tecnologia
+- 🔭 Atualmente estou em busca da primeria oportunidade no mercado de tecnologia
 - 🌱 Estou estudando Spring Boot
 - 📫 Contato: trcosta97@hotmail.com
 - 😄 Pronomes: ele/dele
