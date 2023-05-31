@@ -17,7 +17,19 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=trcosta97&show_icons=true" />
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut)](https://github.com/trcosta97/github-readme-stats)
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut)](https://github.com/trcosta97/github-readme-stats&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut)](https://github.com/trcosta97/github-readme-stats&theme=dark"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut)](https://github.com/trcosta97/github-readme-stats&theme=dark" />
+</picture>
+
 
   
   <div align="center" style ="display: inline_block"><br>
