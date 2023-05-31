@@ -33,7 +33,7 @@
 <a href="https://github.com/trcosta97/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trcosta97&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/trcosta97/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trcosta97&repo=convoychat" />
 </a>
 
