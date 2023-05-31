@@ -30,6 +30,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark" />
 </picture>
 
+<a href="https://github.com/trcosta97/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trcosta97&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trcosta97&repo=convoychat" />
+</a>
+
 
   
   <div align="center" style ="display: inline_block"><br>
