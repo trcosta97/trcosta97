@@ -17,6 +17,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=trcosta97&show_icons=true" />
 </picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut)](https://github.com/trcosta97/github-readme-stats)
+
   
   <div align="center" style ="display: inline_block"><br>
     <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
