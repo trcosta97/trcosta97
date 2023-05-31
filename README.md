@@ -20,14 +20,14 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-vertical)](https://github.com/trcosta97/github-readme-stats&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-vertical)](https://github.com/trcosta97/github-readme-stats&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-vertical)](https://github.com/trcosta97/github-readme-stats&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark" />
 </picture>
 
 
