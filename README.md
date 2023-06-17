@@ -1,10 +1,10 @@
-### Olá! Eu sou o Thiago Ribeiro 👋
+### Hello! My name is Thiago 👋
 
 
-- 🔭 Atualmente estou em busca da primeria oportunidade no mercado de tecnologia
-- 🌱 Estou estudando Spring Boot
-- 📫 Contato: trcosta97@hotmail.com
-- 😄 Pronomes: ele/dele
+- 🔭 I'm currently looking for my first job in tech
+- 🌱 I'm focusing my studies on backend development, more specifically on the springboot framework
+- 📫 trcosta97@hotmail.com
+
 <div align="center style="display: inline_block">
   <picture>
   <source
@@ -23,11 +23,6 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcosta97&layout=donut-horizontal)](https://github.com/trcosta97/github-readme-stats&theme=dark" />
   </picture>
 </div>
 
