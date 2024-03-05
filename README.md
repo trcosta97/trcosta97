@@ -1,7 +1,7 @@
 ### Hello! My name is Thiago 👋
 
 
-- 🔭 I'm currently looking for a job oportunity
+- 🔭 I'm currently working but open for new opportunities
 - 🌱 I'm focusing my studies on backend development, more specifically on the springboot framework
 - 📫 trcosta97@hotmail.com
 
